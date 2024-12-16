@@ -1,0 +1,13 @@
+{
+  "name": "odin-project-linked-lists",
+  "version": "1.0.0",
+  "description": "This project implements a Linked List in JavaScript using ES6 modules. It includes a Node class to represent elements and a LinkedList class with methods like append, prepend, size, pop, and more. The project demonstrates modular programming and data structure manipulation, with extra features for inserting and removing nodes at specific indices.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
